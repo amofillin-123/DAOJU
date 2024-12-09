@@ -1,6 +1,6 @@
-python-pptx==0.6.18
-python-docx==0.8.11
-Pillow==10.1.0
-reportlab==4.0.7
+flask==3.0.0
+python-pptx==0.6.21
+Pillow==10.2.0
+reportlab==4.1.0
+gunicorn==21.2.0
 lxml>=4.9.3
-tk>=8.6 
